@@ -41,7 +41,7 @@ While building this project, I practiced:
 🌐 Live Demo
 
 ## 🌐 Live Demo
-👉 [View it here](https://Abdulrahmanbello.github.io/currency-converter/)
+👉 [View it here](https://Abdulrahmanvisit.github.io/currency-converter/)
 
 
 👨‍💻 Author
